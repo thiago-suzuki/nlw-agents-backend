@@ -14,6 +14,7 @@ App Backend da Aplicação de Perguntas e Respostas com I.A desenvolvido durante
 - [DrizzleORM](https://orm.drizzle.team/) > ORM para Gerenciamento de Banco de Dados
 - [PostgreSQL](https://www.postgresql.org/) > Servidor de Banco de Dados
 - [Neon](https://neon.com/) > Ferramenta de Administração do Banco de Dados
+- [Zod](https://zod.dev/) > Biblioteca para Validação de Esquemas TypeScript
 
 <br /><br />
 
