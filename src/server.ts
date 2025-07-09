@@ -29,6 +29,6 @@ app.register(getRoomQuestionsRoute)
 app.register(createRoomRoute)
 app.register(createQuestionRoute)
 
-app.listen({ port }).then(() => {
+app.listen({ port, host: '0.0.0.0' }).then(() => {
     console.log(`Server running on port: ${port}`)
 })
