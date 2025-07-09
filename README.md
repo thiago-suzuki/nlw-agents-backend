@@ -14,7 +14,8 @@ App Backend da Aplicação de Perguntas e Respostas com I.A desenvolvido durante
 - [DrizzleORM](https://orm.drizzle.team/) > ORM para Gerenciamento de Banco de Dados
 - [PostgreSQL](https://www.postgresql.org/) > Servidor de Banco de Dados
 - [Neon](https://neon.com/) > Ferramenta de Administração do Banco de Dados
-- [Zod](https://zod.dev/) > Biblioteca para Validação de Esquemas TypeScript
+- [Zod](https://neon.com/) > Ferramenta de Administração do Banco de Dados
+- [Gemini API](https://ai.google.dev/) > API de Inteligência Artificial do Google
 
 <br /><br />
 
@@ -47,8 +48,3 @@ DATABASE_URL="postgresql://neondb_owner:npg_plaBgxu7r6Yh@ep-broad-hall-aepwhl4x-
 # development
 $ npm run dev
 ```
-
-<br /><br />
-
-## Link do Deploy
-https://agents-backend-rks.onrender.com
